@@ -1,0 +1,550 @@
+# Translation of Themes - Retina Blog in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Retina Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-07 12:34:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Retina Blog\n"
+
+#. Theme Name of the theme
+msgid "Retina Blog"
+msgstr "Retina Blog"
+
+#. Translators: %s is the page number.
+#: assets/breadcrumbs/breadcrumbs.php:325
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the search query.
+#: assets/breadcrumbs/breadcrumbs.php:321
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/widgets/widgets.php:521
+msgid "Instagram URL:"
+msgstr "URL de Instagram:"
+
+#: template-parts/content-page.php:24 template-parts/content.php:63
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada encaja con los términos de búsqueda. Inténtalo de nuevo con distintas palabras clave."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try going back to Homepage or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Quieres probar uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:14
+msgid "404 page not found"
+msgstr "404 página no encontrada"
+
+#: inc/widgets/widgets.php:256 inc/widgets/widgets.php:302
+#: inc/widgets/widgets.php:303
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: functions.php:50
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:51
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: header.php:85
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:161
+msgid "Footer Column One"
+msgstr "Pie de página uno"
+
+#: functions.php:171
+msgid "Footer Column Two"
+msgstr "Pie de página dos"
+
+#: functions.php:182
+msgid "Footer Column Three"
+msgstr "Pie de página tres"
+
+#: inc/widgets/widgets.php:497
+msgid "Name:"
+msgstr "Nombre:"
+
+#: assets/breadcrumbs/breadcrumbs.php:869
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: assets/breadcrumbs/breadcrumbs.php:841
+#: assets/breadcrumbs/breadcrumbs.php:1270
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: assets/breadcrumbs/breadcrumbs.php:840
+#: assets/breadcrumbs/breadcrumbs.php:896
+#: assets/breadcrumbs/breadcrumbs.php:1266
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: assets/breadcrumbs/breadcrumbs.php:839
+#: assets/breadcrumbs/breadcrumbs.php:868
+#: assets/breadcrumbs/breadcrumbs.php:895
+#: assets/breadcrumbs/breadcrumbs.php:922
+#: assets/breadcrumbs/breadcrumbs.php:1262
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: assets/breadcrumbs/breadcrumbs.php:823
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: assets/breadcrumbs/breadcrumbs.php:806
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: assets/breadcrumbs/breadcrumbs.php:789
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: assets/breadcrumbs/breadcrumbs.php:329
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: assets/breadcrumbs/breadcrumbs.php:327
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: assets/breadcrumbs/breadcrumbs.php:323
+msgid "Page %s"
+msgstr "Página %s"
+
+#: assets/breadcrumbs/breadcrumbs.php:319
+msgid "Archives"
+msgstr "Archivo"
+
+#: assets/breadcrumbs/breadcrumbs.php:318
+msgid "404 Not Found"
+msgstr "404 No Encontrado"
+
+#: assets/breadcrumbs/breadcrumbs.php:317
+msgid "Home"
+msgstr "Inicio"
+
+#: assets/breadcrumbs/breadcrumbs.php:316
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/widgets/widgets.php:502
+msgid "Description:"
+msgstr "Descripción:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer/customizer-default.php:26
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/customizer.php:49
+msgid "Upgrade To Pro"
+msgstr "Actualiza a PRO "
+
+#: inc/customizer/customizer.php:48
+msgid "Retina Blog Pro"
+msgstr "Retina Blog Pro"
+
+#: functions.php:149
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/customizer/theme-option.php:161 inc/layout-meta/layout-meta.php:78
+msgid "No Sidebar"
+msgstr "Sin barras laterales"
+
+#: footer.php:79
+msgid "Thememattic Team"
+msgstr "Thememattic Team"
+
+#: inc/customizer/theme-option.php:266
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/theme-option.php:265
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/theme-option.php:264
+msgid "1"
+msgstr "1"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:51
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:69 template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/widgets/widget-base-class.php:289
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Choose Image"
+msgstr "Elige una imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Select Image"
+msgstr "Secciona Imagen"
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widgets/widgets.php:223 inc/widgets/widgets.php:248
+msgid "No. of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:260
+msgid "No. of Comments:"
+msgstr "Número de Comentarios:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/widgets/widgets.php:83
+msgid "Number of Posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/widgets.php:60 inc/widgets/widgets.php:492
+#: inc/widgets/widgets.php:608
+msgid "Title:"
+msgstr "Título:"
+
+#. translators: %s: search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Resultados de buscar: %s"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/widgets/widgets.php:516
+msgid "Twitter URL:"
+msgstr "URL de Twitter:"
+
+#: inc/widgets/widgets.php:511
+msgid "Facebook URL:"
+msgstr "URL de Facebook:"
+
+#: inc/customizer/theme-option.php:138
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/theme-option.php:139
+msgid "Boxed"
+msgstr "Encajonada"
+
+#: inc/widgets/widgets.php:244 inc/widgets/widgets.php:297
+#: inc/widgets/widgets.php:298
+msgid "Recent"
+msgstr "Reciente"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Una opinión en &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: assets/breadcrumbs/breadcrumbs.php:315
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: footer.php:87
+msgid "Back To Top"
+msgstr "Volver arriba"
+
+#: functions.php:151
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/widgets/widgets.php:75 inc/widgets/widgets.php:236
+msgid "Excerpt Length:"
+msgstr "Longitud del extracto:"
+
+#: inc/customizer/theme-option.php:74
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/theme-option.php:31
+msgid "Enable Slider"
+msgstr "Activar el carrusel"
+
+#: inc/customizer/theme-option.php:14
+msgid "Slider Section"
+msgstr "Sección carrusel"
+
+#: header.php:34
+msgid "Loading"
+msgstr "Cargando"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:215
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "activado"
+
+#: functions.php:163 functions.php:173 functions.php:184
+msgid "Displays items on footer section."
+msgstr "Mostrar elementos en la sección del pie de página"
+
+#: inc/customizer/theme-option.php:241
+msgid "Footer Options"
+msgstr "Opciones de pie de página"
+
+#: inc/customizer/theme-option.php:230
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/customizer/theme-option.php:229
+msgid "Default (Older / Newer Post)"
+msgstr "Por defecto (antigua / nueva entrada)"
+
+#: inc/customizer/theme-option.php:225
+msgid "Pagination Type"
+msgstr "Tipo de paginaci&oacute;n"
+
+#: inc/customizer/theme-option.php:208
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer/theme-option.php:197
+msgid "Read More Button Text"
+msgstr "Texto del botón para leer más"
+
+#: inc/customizer/theme-option.php:160 inc/layout-meta/layout-meta.php:72
+msgid "Primary Sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/customizer/theme-option.php:159 inc/layout-meta/layout-meta.php:75
+msgid "Content - Primary Sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/customizer/theme-option.php:156
+msgid "Global Layout"
+msgstr "Disposición global"
+
+#: inc/customizer/theme-option.php:135
+msgid "Site Layout"
+msgstr "Disposición de Sitio"
+
+#: inc/widgets/widgets.php:67
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/widgets.php:65
+msgid "Select Category:"
+msgstr "Selecciona una categoría:"
+
+#: inc/template-functions.php:140
+msgid "Load More Posts"
+msgstr "Cargar más entradas"
+
+#: inc/layout-meta/layout-meta.php:54
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: inc/customizer/theme-option.php:341
+msgid "Simple"
+msgstr "Simple"
+
+#: inc/customizer/theme-option.php:340
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/customizer/theme-option.php:336
+msgid "Breadcrumb Type"
+msgstr "Tipo de migas de pan"
+
+#: inc/customizer/theme-option.php:318
+msgid "Breadcrumb Options"
+msgstr "Opciones de migas de pan"
+
+#: inc/customizer/theme-option.php:308
+msgid "Enable Preloader"
+msgstr "Habilitar preloader"
+
+#: inc/customizer/theme-option.php:291
+msgid "Preloader Options"
+msgstr "Habilitar preloader"
+
+#: inc/widgets/widgets.php:507
+msgid "Author Image:"
+msgstr "Imagen del autor:"
+
+#: inc/widgets/widgets.php:487
+msgid "Displays authors details in post."
+msgstr "Mostrar los detalles del autor en la entrada"
+
+#: inc/widgets/widgets.php:453
+msgctxt "Tabbed Widget"
+msgid "on"
+msgstr "activado"
+
+#: inc/widgets/widgets.php:219 inc/widgets/widgets.php:292
+#: inc/widgets/widgets.php:293
+msgid "Popular"
+msgstr "Populares"
+
+#: inc/widgets/widgets.php:76 inc/widgets/widgets.php:237
+msgid "Number of words"
+msgstr "Número de palabras"
+
+#: inc/widgets/widgets.php:70 inc/widgets/widgets.php:231
+msgid "Enable Discription:"
+msgstr "Activar descripción:"
+
+#: inc/customizer/theme-option.php:281
+msgid "Footer Copyright Text"
+msgstr "Texto de copyright de pie de página"
+
+#: inc/customizer/customizer-default.php:34
+msgid "Copyright All rights reserved"
+msgstr "Copyright. Todos los derechos reservados."
+
+#: inc/widgets/widgets.php:614
+msgid "RB: Social Menu Widget"
+msgstr "RB: Widget del menú social"
+
+#: inc/widgets/widgets.php:215
+msgid "Tabbed widget."
+msgstr "Widget de pestañas."
+
+#: inc/widgets/widgets.php:92
+msgid "RB: Recent/Popular Post Widget"
+msgstr "RB: Widget de entradas recientes/populares"
+
+#: inc/widgets/widgets.php:55
+msgid "Displays post form selected category specific for popular post in sidebars."
+msgstr "Muestra las entradas de una categoría específica seleccionada para las entradas populares en las barras laterales."
+
+#: inc/layout-meta/layout-meta.php:68
+msgid "Single Page/Post Layout"
+msgstr "Diseño de las páginas/entradas individuales"
+
+#: inc/layout-meta/layout-meta.php:22
+msgid "Single Page/Post Settings"
+msgstr "Ajustes de las páginas/entradas individuales"
+
+#: inc/customizer/theme-option.php:263
+msgid "Disable footer sidebar area"
+msgstr "Desactivar el área de la barra lateral del pie de página"
+
+#: inc/customizer/theme-option.php:258
+msgid "Number Of Footer Widget"
+msgstr "Número del widget del pie de página"
+
+#: inc/customizer/theme-option.php:231
+msgid "Infinite Scroll Ajax Load"
+msgstr "Carga infinita con Ajax al hacer scroll"
+
+#: inc/customizer/theme-option.php:178
+msgid "Set Global Archive Length"
+msgstr "Establecer la longitud global del archivo"
+
+#: inc/customizer/theme-option.php:118
+msgid "Enable Banner Overlay"
+msgstr "Activar la superposición del banner"
+
+#: inc/customizer/theme-option.php:83
+msgid "Layout Management"
+msgstr "Gestión del diseño"
+
+#: inc/widgets/widgets.php:653
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "El menú social no está establecido. Tienes que crear el menú y asignarlo al menú social en los ajustes de menús."
+
+#: inc/widgets/widgets.php:609
+msgid "Note: Displays social menu if you have set it(social menu)"
+msgstr "Nota: Muestra el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:603
+msgid "Displays social menu if you have set it(social menu)"
+msgstr "Mostrar el menú social si lo has establecido (menú social)"
+
+#: inc/widgets/widgets.php:527
+msgid "RB: Author Widget"
+msgstr "RB: Widget del autor"
+
+#: inc/widgets/widgets.php:269
+msgid "RB: Sidebar Tab Widget"
+msgstr "RB: Widget de pestañas de la barra lateral"
+
+#: inc/customizer/theme-option.php:100
+msgid "Enable Static Page Content"
+msgstr "Activar el contenido de la página estática"
+
+#. Author URI of the theme
+msgid "https://thememattic.com"
+msgstr "https://thememattic.com"
+
+#. Author of the theme
+msgid "Thememattic"
+msgstr "Thememattic"
+
+#. Theme URI of the theme
+msgid "https://thememattic.com/retina-blog"
+msgstr "https://thememattic.com/retina-blog"

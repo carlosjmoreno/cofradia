@@ -1,0 +1,318 @@
+# Translation of Themes - Flash Blog in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Flash Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-02 06:38:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Flash Blog\n"
+
+#. Description of the theme
+msgid "Flash Blog is a modern, clean, and responsive WordPress theme created for professional bloggers and ideal for those aiming to become one. It comes with many options and features that can be added and customized easily, giving you lots of freedom in creating your unique site. Please contact our support if you have a question or if you need help. Thank you!"
+msgstr "Flash Blog es un tema para WordPress moderno, limpio y adaptable creado para blogueros profesionales e ideal para aquellos que desean convertirse en uno. Viene con muchas opciones y características que se pueden añadir y personalizar fácilmente, dándote mucha libertad para crear tu propio sitio único. Por favor, contacta con nuestro soporte si tienes alguna pregunta o si necesitas ayuda. ¡Gracias!"
+
+#. Theme Name of the theme
+msgid "Flash Blog"
+msgstr "Flash Blog"
+
+#: inc/customizer/theme-option.php:78
+msgid "Related Post Title"
+msgstr "Título para las entradas relacionadas"
+
+#: inc/customizer/theme-option.php:62
+msgid "Enable Related Post on Single post"
+msgstr "Activar las entradas relacionadas en las entradas individuales"
+
+#: inc/customizer/default.php:32
+msgid "Related Post"
+msgstr "Entradas relacionadas"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:59
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:27 template-parts/content.php:64
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada encaja con los términos de búsqueda. Inténtalo de nuevo con distintas palabras clave."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:77
+msgid "Tagged In %1$s"
+msgstr "Etiquetado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:70
+msgid "Posted In %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:49
+msgctxt "post author"
+msgid "by %s"
+msgstr "Por %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:32
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicada en %s"
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr "Por favor, define un nombre de archivo de iconos SVG."
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor, define los parámetros por defecto en forma de array."
+
+#: inc/customizer/theme-option.php:195
+msgid "Footer Copyright Text"
+msgstr "Texto copyright pie de página"
+
+#: inc/customizer/theme-option.php:178
+msgid "Footer Options"
+msgstr "Opciones de pie de página"
+
+#: inc/customizer/theme-option.php:169
+msgid "Default (Older / Newer Post)"
+msgstr "Por defecto (antigua / nueva entrada)"
+
+#: inc/customizer/theme-option.php:168
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/customizer/theme-option.php:164
+msgid "Pagination Type"
+msgstr "Tipo de paginaci&oacute;n"
+
+#: inc/customizer/theme-option.php:147
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer/theme-option.php:134
+msgid "Archive Excerpt Length"
+msgstr "Longitud del extracto en el archivo"
+
+#: inc/customizer/theme-option.php:117
+msgid "Button Text for Read More"
+msgstr "Texto del botón «Leer más»"
+
+#: inc/customizer/theme-option.php:100
+msgid "No Sidebar"
+msgstr "Sin barras laterales"
+
+#: inc/customizer/theme-option.php:98
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/theme-option.php:99
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/theme-option.php:95
+msgid "Sidebar Options"
+msgstr "Opciones Barra lateral"
+
+#: inc/customizer/theme-option.php:45
+msgid "Layout Management"
+msgstr "Gestión del diseño"
+
+#: inc/customizer/theme-option.php:36
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/theme-option.php:28
+msgid "Light-scheme"
+msgstr "Esquema claro"
+
+#: inc/customizer/theme-option.php:27
+msgid "Dark Scheme"
+msgstr "Esquema escuro"
+
+#: inc/customizer/theme-option.php:23
+msgid "Select Header Color Scheme"
+msgstr "Selecciona el esquema de color de la cabecera"
+
+#: inc/customizer/featured-blog.php:63
+msgid "Select Category for Featured Blog"
+msgstr "Selecciona una categoría para el blog destacado"
+
+#: inc/customizer/featured-blog.php:46
+msgid "Featured Blog Title"
+msgstr "Título del blog destacado"
+
+#: inc/customizer/featured-blog.php:30
+msgid "Enable Featured Blog"
+msgstr "Activar el blog destacado"
+
+#: inc/customizer/featured-blog.php:13
+msgid "Footer Featured Blog"
+msgstr "Pie de página del blog destacado"
+
+#: inc/customizer/default.php:36
+msgid "Copyright All rights reserved"
+msgstr "Copyright Todos los derechos reservados"
+
+#: inc/customizer/default.php:30
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/default.php:23
+msgid "You May Also Like"
+msgstr "También te puede interesar"
+
+#: inc/customizer/customizer.php:83
+msgid "Buy Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/customizer/customizer.php:82
+msgid "Flash Blog Plus"
+msgstr "Flash Blog Plus"
+
+#: inc/custom-hooks.php:133
+msgid "Disable Featured Image on single page"
+msgstr "Desactivar imagen destacada en página individual"
+
+#: inc/custom-hooks.php:96
+msgid "Layout Options"
+msgstr "Opciones de diseño"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#. translators: If there are characters in your language that are not supported
+#. by Shadows Into Light, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:175
+msgctxt "Shadows Into Light font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:141
+msgid "Footer Column 3"
+msgstr "Pie de página 3"
+
+#: functions.php:132
+msgid "Footer Column 2"
+msgstr "Pie de página 2"
+
+#: functions.php:125 functions.php:134 functions.php:143
+msgid "Displays items on footer section."
+msgstr "Mostrar elementos en la sección del pie de página"
+
+#: functions.php:123
+msgid "Footer Column 1"
+msgstr "Pie de página 1"
+
+#: functions.php:116
+msgid "Add widgets here."
+msgstr "Añade los widgets aquí."
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:51
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: functions.php:50 header.php:81
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:81
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:52
+msgid "Footer Social Links Menu"
+msgstr "Menú de enlaces sociales del pie de página"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios sobre &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%1$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Quieres probar uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://unitedtheme.com/"
+msgstr "https://unitedtheme.com/"
+
+#. Author of the theme
+msgid "UnitedTheme"
+msgstr "UnitedTheme"
+
+#. Theme URI of the theme
+msgid "https://unitedtheme.com/themes/flash-blog/"
+msgstr "https://unitedtheme.com/themes/flash-blog/"

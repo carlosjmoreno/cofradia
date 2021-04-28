@@ -1,0 +1,44 @@
+.night-mode{
+    body{
+        background-color: rgb(37,37,37);
+        color: $color_white;
+    }
+   
+    a{
+        color: $color_white;
+        &:visited{
+            color: $color_white;
+        }
+    }
+    .#{$prefix}-mobile-menu-section{
+        background-color: $color_black;
+    }
+    
+    
+    .theme-mode{
+        .fa-adjust{
+            &:before{
+                content: "\f186";
+            }
+        }
+       a{
+           .#{$prefix}-tooltip{
+               color: $color_black;
+                &:before{
+                    content: "Light mode";
+                }
+           }
+       }
+    }
+    .single,
+    .page,
+    .archive,
+    .search{
+        #content{
+            background-color: rgba(0,0,0,0.5);
+            pre{
+                background-color: $color_black;
+            }
+        }
+    }
+}

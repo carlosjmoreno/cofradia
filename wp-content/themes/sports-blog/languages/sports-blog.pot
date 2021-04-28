@@ -1,0 +1,449 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sports Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-01 06:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#. %s: Name of current post.
+#: template-parts/content.php:61
+#, php-format
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#: inc/customizer/slider.php:51
+msgid "1"
+msgstr ""
+
+#: inc/customizer/slider.php:52
+msgid "2"
+msgstr ""
+
+#: inc/customizer/slider.php:53
+msgid "3"
+msgstr ""
+
+#: inc/customizer/slider.php:54
+msgid "4"
+msgstr ""
+
+#: inc/customizer/slider.php:55
+msgid "5"
+msgstr ""
+
+#: functions.php:115
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/featured-page.php:71
+msgid "Additional Button Text"
+msgstr ""
+
+#: inc/customizer/featured-page.php:87
+msgid "Additional Button URL"
+msgstr ""
+
+#: inc/customizer/theme-option.php:102
+msgid "Archive Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-option.php:85
+msgid "Button Text for Read More"
+msgstr ""
+
+#: inc/customizer/default.php:33
+msgid "BUY NOW"
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/slider.php:112
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/slider.php:148
+msgid "Category for slider"
+msgstr ""
+
+#: inc/customizer/top-ticker.php:67
+msgid "Category for Ticker"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/default.php:46
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/default.php:50
+msgid "Copyright All rights reserved"
+msgstr ""
+
+#: inc/customizer/theme-option.php:137
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/custom-hooks.php:418
+msgid "Disable Featured Image on single page"
+msgstr ""
+
+#: functions.php:124 functions.php:133 functions.php:142
+msgid "Displays items on footer section."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/theme-option.php:46
+msgid "Enable Banner Overlay"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:30
+msgid "Enable Featured Blog"
+msgstr ""
+
+#: inc/customizer/featured-page.php:24
+msgid "Enable Featured Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:163
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/slider.php:30
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:72
+msgid "Enable Slider Content"
+msgstr ""
+
+#: inc/customizer/top-ticker.php:30
+msgid "Enable Ticker"
+msgstr ""
+
+#: inc/customizer/default.php:37
+msgid "Featured Blog"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:46
+msgid "Featured Blog Title"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:13
+msgid "Featured Blogs"
+msgstr ""
+
+#: inc/customizer/featured-page.php:7
+msgid "Featured Page Options"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/customizer/theme-option.php:189
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:172
+msgid "Footer Options"
+msgstr ""
+
+#: footer.php:46
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://unitedtheme.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://unitedtheme.com/themes/sports-blog/"
+msgstr ""
+
+#: inc/customizer/slider.php:48
+msgid ""
+"If you are using selection \"from page\" option please refresh to get actual "
+"no of page"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/theme-option.php:29
+msgid "Layout Management"
+msgstr ""
+
+#: inc/custom-hooks.php:381
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:66
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/theme-option.php:68
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/theme-option.php:136
+msgid "Numeric"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/slider.php:111
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:115
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:132
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poiret One, translate this to 'off'. Do not translate into your own language.
+#: functions.php:174
+msgctxt "Poiret One font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:47
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:68
+#, php-format
+msgid "Posted In %1$s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:146
+msgid "Preloader Options"
+msgstr ""
+
+#: functions.php:48 header.php:95
+msgid "Primary Menu"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/theme-option.php:67
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/featured-page.php:55
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:64
+msgid "Select Category for Featured Blog"
+msgstr ""
+
+#: inc/customizer/slider.php:149
+msgid "Select category to be shown on tab "
+msgstr ""
+
+#: inc/customizer/featured-page.php:40
+msgid "Select Featured Page from"
+msgstr ""
+
+#: inc/customizer/slider.php:47
+msgid "Select no of slider"
+msgstr ""
+
+#: inc/customizer/top-ticker.php:47
+msgid "Select no Ticker"
+msgstr ""
+
+#: inc/customizer/slider.php:88
+msgid "Select no words of slider"
+msgstr ""
+
+#: inc/customizer/slider.php:107
+msgid "Select Slider From"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option.php:63
+msgid "Sidebar Options"
+msgstr ""
+
+#: header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/slider.php:128
+msgid "Slider From Page"
+msgstr ""
+
+#: inc/customizer/slider.php:13
+msgid "Slider Options"
+msgstr ""
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: functions.php:169
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the theme
+msgid "Sports Blog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Sports Blog is a clean modern WordPress Blog theme, carefully designed to "
+"help you create extraordinary blog sites very easily, featuring a large "
+"number of different styles and options. The theme offers great user "
+"experience for almost any need and is extremely easy customisable. Every "
+"section and element are designed with simplicity and details in mind, and "
+"well-tailored to match your own taste. Sports Blog is also 100% responsive, "
+"that means it fits with all different kind of devices in different sizes."
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "Sports Blog Plus"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:75
+#, php-format
+msgid "Tagged In %1$s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: footer.php:68
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/customizer/top-ticker.php:13
+msgid "Ticker Options"
+msgstr ""
+
+#. Author of the theme
+msgid "UnitedTheme"
+msgstr ""
+
+#: inc/customizer/default.php:32
+msgid "VIEW MORE"
+msgstr ""

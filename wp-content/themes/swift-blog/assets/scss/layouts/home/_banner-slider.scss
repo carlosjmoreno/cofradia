@@ -1,0 +1,124 @@
+.#{$prefix}-banner-slider-section{
+    padding-top: 60px;
+    padding-bottom: 45px;
+    @include media(lg){
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .slick-arrow{
+        display: none !important;
+    }
+    .#{$prefix}-section-title{
+        margin: 0;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .#{$prefix}-banner-wrapper{
+        .#{$prefix}-banner-slider{
+            @include media(lg){
+                float: left;
+                width: 70%;
+                margin-top: 80px;
+            }
+        }
+        .#{$prefix}-banner-pagination-section{
+            display: none;
+            @extend %primary-bg;
+            @include media(lg){
+                float: left;
+                width: 30%;
+                display: block;
+                position: relative;
+                color: $color_black;
+                padding-bottom: 80px;
+            }
+            &:before{
+                position: absolute;
+                content: '';
+                width: 60px;
+                height: 100%;
+                top: 0;
+                left: -60px;
+                @extend %primary-bg;
+                display: block;
+                z-index: -1;
+            }
+            .slick-slide{
+                border: 0;
+            }
+        }
+        
+    }
+    .#{$prefix}-banner-pagination{
+        figure{
+            margin: 0;
+            height: 100px;
+            @include transition();
+            &:hover{
+                background-color: $color_white;
+            }
+        }
+        .#{$prefix}-post-title{
+            margin: 0;
+            padding: 30px 30px 15px 60px;
+            overflow: hidden;
+            height: 80px;
+            font-size: 16px;
+            span{
+                position: absolute;
+                left: 30px;
+            }
+        }
+        .slick-current{
+            figure{
+                background-color: $color_white;
+                position: relative;
+                &:after{
+                    position: absolute;
+                    content: '';
+                    top: 0;
+                    right: 0;
+                    height: 100%;
+                    width: 3px;
+                    @extend %secondary-bg;
+                }
+            }
+        }
+
+    }
+    .#{$prefix}-banner-slider{
+        .#{$prefix}-image-section{
+            height: 300px;
+            @include media(md){
+                height: 400px;
+            }
+            @include media(lg){
+                height: 500px;
+            }
+        }
+        .#{$prefix}-desc{
+            text-align: center;
+            @include media(lg){
+                padding-left: 30px;
+                padding-right: 90px;
+            }
+            .#{$prefix}-author-meta{
+                padding-top: 15px;
+            }
+            .#{$prefix}-post-title{
+                margin-top: 15px;
+                margin-bottom: 0;
+                line-height: 1.2;
+                font-size: 16px;
+                @include media(md){
+                    font-size: 24px;
+                }
+            }
+        }
+    }
+   
+}

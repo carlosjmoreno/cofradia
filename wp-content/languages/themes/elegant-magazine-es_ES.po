@@ -1,0 +1,1372 @@
+# Translation of Themes - Elegant Magazine in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Elegant Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-08 12:25:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Elegant Magazine\n"
+
+#. Description of the theme
+msgid "An elegant and minimalist theme, which is predominantly designed for a web news portal and magazine with an immense research on contemporary online newspapers. With the help of available customizer options and widgets, you can implement layout as a trending news journals, modern fashion magazine, travel blogging & magazine, clean and minimal news sites, blogging site and even more. The theme is SEO friendly with optimized code and awesome support. See our demos: https://afthemes.com/elegant-magazine-demos/ and support at : https://afthemes.com/supports/"
+msgstr "Un tema elegante y minimalista, que está diseñado principalmente para portales de noticias y magacines web, con una investigación profunda sobre los periódicos digitales contemporáneos. Con la ayuda de las opciones del personalizador y los widgets disponibles, puedes estructurar el diseño como una revista de noticias de actualidad, un magacín de moda actual, un blog-magacín de viajes, un sitio de noticias limpio y minimalista, un blog y mucho más. El tema está preparado para SEO y ofrece un código optimizado y un soporte asombroso. Mira nuestras demos: https://afthemes.com/elegant-magazine-demos/ y visita el soporte en: https://afthemes.com/supports/"
+
+#. Theme Name of the theme
+msgid "Elegant Magazine"
+msgstr "Elegant Magazine"
+
+#: inc/hooks/hook-tgm.php:19
+msgid "Blockspare - Beautiful Page Building Blocks for WordPress"
+msgstr "Blockspare - Beautiful Page Building Blocks for WordPress"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:320
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:316
+msgid "Search results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins están actualmente desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins deben actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/customizer/customizer.php:90
+msgid "Disable Image Tint/Overlay"
+msgstr "Desactivar el tintado o superposición de la imagen"
+
+#: inc/customizer/theme-options.php:329
+msgid "Show on single posts"
+msgstr "Mostrar entradas individuales"
+
+#: inc/customizer/theme-options.php:311
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:121
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "%1$s hecho."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:17
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza por aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Se han completado todas las instalaciones."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación ha comenzado. Este proceso puede tardar un poco según el alojamiento, por favor, se paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origen"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activa"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Origen externo"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatorio"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA versión %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se han tomado acciones. El plugin %1$s ya estaba activado."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: lib/info/info.php:149
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: lib/info/info.php:148
+msgid "If you want more advanced features then you can upgrade to the premium version of the theme."
+msgstr "Si quieres características más avanzadas, puedes actualizar a la versión premium del tema."
+
+#: lib/info/info.php:143
+msgid "To import demo content for this theme, %1$s plugin is needed. Please make sure plugin is installed and activated. After plugin is activated, you will see Import Demo Data menu under Appearance."
+msgstr "Para importar el contenido de demostración para este tema, se necesita el plugin %1$s. Por favor, asegúrate de que el plugin está instalado y activado. Después de que el plugin esté activado, verás un menú de importación de datos de demostración en Apariencia."
+
+#: lib/info/info.php:138
+msgid "Theme supports some helpful WordPress plugins to enhance your site. But, please enable only those plugins which you need in your site. For example, enable WooCommerce only if you are using e-commerce."
+msgstr "El tema es compatible con algunos plugins útiles de WordPress para mejorar tu sitio. Pero, por favor, activa sólo los plugins que necesites en tu sitio. Por ejemplo, activa WooCommerce sólo si estás usando e-commerce."
+
+#: lib/info/info.php:129
+msgid "Learn More"
+msgstr "Más información"
+
+#: lib/info/info.php:128
+msgid "For advanced theme customization, it is recommended to use child theme rather than modifying the theme file itself. Using this approach, you wont lose the customization after theme update."
+msgstr "Para la personalización avanzada del tema, se recomienda utilizar un tema hijo en lugar de modificar el propio archivo de tema. Con este enfoque, no perderás la personalización después de la actualización del tema."
+
+#: lib/info/info.php:126
+msgid "Child Theme"
+msgstr "Tema hijo"
+
+#: lib/info/info.php:110
+msgid "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme."
+msgstr "¿Tienes alguna pregunta sobre el soporte técnico del tema o has encontrado algún error o tienes algún comentario? El mejor lugar para preguntar es el foro de soporte dedicado del tema."
+
+#: lib/info/info.php:108 lib/info/info.php:111
+msgid "Contact Support"
+msgstr "Contactar con el soporte"
+
+#: lib/info/info.php:97
+msgid "You can check out the theme demos for reference to find out what you can achieve using the theme and how it can be customized."
+msgstr "Puedes consultar las demostraciones del tema para saber qué puedes conseguir utilizando el tema y cómo puede personalizarse."
+
+#: lib/info/info.php:95
+msgid "Theme Preview"
+msgstr "Previsualización"
+
+#: lib/info/info.php:89
+msgid "To import sample demo content, %1$s plugin should be installed and activated. After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr "Para importar el contenido de demostración, se debe instalar y activar el plugin %1$s. Después de activar el plugin, visita el menú «Importar datos de demostración» en «Apariencia»."
+
+#: lib/info/info.php:81
+msgid "Theme uses Wedgets API for widget options. Using the Widgets you can easily customize different aspects of the theme."
+msgstr "El tema utiliza la API de widgets para las opciones de widgets. Usando los widgets puedes personalizar fácilmente diferentes aspectos del tema."
+
+#: lib/info/info.php:79 lib/info/info.php:82
+msgid "Widgets"
+msgstr "Widgets"
+
+#: lib/info/info.php:74
+msgid "Customize"
+msgstr "Personalizar"
+
+#: lib/info/info.php:73
+msgid "Theme uses Customizer API for theme options. Using the Customizer you can easily customize different aspects of the theme."
+msgstr "El tema utiliza la API del personalizador para las opciones de tema. Usando el personalizador puedes personalizar fácilmente diferentes aspectos del tema."
+
+#: lib/info/info.php:65
+msgid "To achieve custom home page other than blog listing, you need to create and set static front page."
+msgstr "Para conseguir una página de inicio personalizada que no sea el listado del blog, es necesario crear y establecer una página de inicio estática."
+
+#: lib/info/info.php:63 lib/info/info.php:66
+msgid "Static Front Page"
+msgstr "Portada estática"
+
+#: lib/info/info.php:56 lib/info/info.php:119
+msgid "Please check our full documentation for detailed information on how to setup and customize the theme."
+msgstr "Consulta toda nuestra documentación para obtener información detallada sobre cómo configurar y personalizar el tema."
+
+#: lib/info/info.php:54 lib/info/info.php:117
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: lib/info/info.php:46
+msgid "Rate This Theme"
+msgstr "Valora este tema"
+
+#: lib/info/info.php:42 lib/info/info.php:57 lib/info/info.php:120
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: lib/info/info.php:38 lib/info/info.php:98
+msgid "View Demo"
+msgstr "Ver la demostración"
+
+#: lib/info/info.php:34
+msgid "Theme Details"
+msgstr "Detalles del tema"
+
+#: lib/info/info.php:28
+msgid "Upgrade to Pro"
+msgstr "Actualizar a la versión Pro"
+
+#: lib/info/info.php:27 lib/info/info.php:87 lib/info/info.php:90
+msgid "Demo Content"
+msgstr "Contenido de demostración"
+
+#: lib/info/info.php:26
+msgid "Useful Plugins"
+msgstr "Plugins útiles"
+
+#: lib/info/info.php:25
+msgid "Support"
+msgstr "Soporte"
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: lib/info/info.php:20
+msgid "Howdy %1$s, we would like to thank you for installing and activating %2$s theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with %2$s. Once again, Thanks for using our theme!"
+msgstr "Hola, %1$s, nos gustaría darte las gracias por instalar y activar el tema %2$s para tu precioso sitio. Todas las características proporcionadas por el tema están ahora listas para usar; Aquí, hemos reunido todos los detalles esenciales y enlaces útiles para ti y tu mejor experiencia con %2$s. Una vez más, ¡Gracias por usar nuestro tema!"
+
+#: lib/info/class.info.php:341 lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr "Gestionar los plugins"
+
+#: lib/info/class.info.php:232
+msgid "%s() method does not exist."
+msgstr "El método %s() no existe."
+
+#: lib/info/class.info.php:126 lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: lib/info/class.info.php:126
+msgid "Get started with %1$s"
+msgstr "Primeros pasos con %1$s"
+
+#: lib/info/class.info.php:126
+msgid "Welcome! Thank you for choosing %1$s. To fully take advantage of the best our theme can offer please make sure you visit theme details page."
+msgstr "¡Bienvenido! Gracias por elegir %1$s. Para aprovechar al máximo lo mejor que nuestro tema puede ofrecer, asegúrate de visitar la página de detalles del tema."
+
+#: lib/info/class.info.php:121 lib/info/class.info.php:122
+msgid "%s info"
+msgstr "Información sobre %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:864
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/breadcrumbs/breadcrumbs.php:836 lib/breadcrumbs/breadcrumbs.php:1265
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumbs/breadcrumbs.php:835 lib/breadcrumbs/breadcrumbs.php:891
+#: lib/breadcrumbs/breadcrumbs.php:1261
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumbs/breadcrumbs.php:834 lib/breadcrumbs/breadcrumbs.php:863
+#: lib/breadcrumbs/breadcrumbs.php:890 lib/breadcrumbs/breadcrumbs.php:917
+#: lib/breadcrumbs/breadcrumbs.php:1257
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumbs/breadcrumbs.php:818
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: lib/breadcrumbs/breadcrumbs.php:801
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumbs/breadcrumbs.php:784
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:324
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:322
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:318
+msgid "Page %s"
+msgstr "Página %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:314
+msgid "Archives"
+msgstr "Archivos"
+
+#: lib/breadcrumbs/breadcrumbs.php:313
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: lib/breadcrumbs/breadcrumbs.php:312
+msgid "Home"
+msgstr "Inicio"
+
+#: lib/breadcrumbs/breadcrumbs.php:311
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: lib/breadcrumbs/breadcrumbs.php:310
+msgid "Browse:"
+msgstr "Ver:"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:234
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d artículo"
+msgstr[1] "%d artículos"
+
+#: inc/woocommerce.php:230
+msgid "View your shopping cart"
+msgstr "Ver tu carrito"
+
+#: inc/widgets/widgets-register-sidebars.php:72
+msgid "Displays items on footer third column."
+msgstr "Muestra elementos en la tercera columna del pie de página."
+
+#: inc/widgets/widgets-register-sidebars.php:70
+msgid "Footer Third Section"
+msgstr "Tercera sección del pie de página"
+
+#: inc/widgets/widgets-register-sidebars.php:62
+msgid "Displays items on footer second column."
+msgstr "Muestra elementos en la segunda columna del pie de página."
+
+#: inc/widgets/widgets-register-sidebars.php:60
+msgid "Footer Second Section"
+msgstr "Segunda sección del pie de página"
+
+#: inc/widgets/widgets-register-sidebars.php:52
+msgid "Displays items on footer first column."
+msgstr "Muestra elementos en la primera columna del pie de página."
+
+#: inc/widgets/widgets-register-sidebars.php:50
+msgid "Footer First Section"
+msgstr "Primera sección del pie de página"
+
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Add widgets to front-page sidebar section."
+msgstr "Añade widgets a la sección de barra lateral de la portada."
+
+#: inc/widgets/widgets-register-sidebars.php:40
+msgid "Front-page Sidebar Section"
+msgstr "Sección de barra lateral de la portada"
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Add widgets to front-page contents section."
+msgstr "Añade widgets a la sección de contenido de la portada."
+
+#: inc/widgets/widgets-register-sidebars.php:30
+msgid "Front-page Content Section"
+msgstr "Sección de contenido de la portada"
+
+#: inc/widgets/widgets-register-sidebars.php:22
+msgid "Add widgets for off-canvas panel."
+msgstr "Añade widgets para el panel fuera del lienzo."
+
+#: inc/widgets/widgets-register-sidebars.php:20
+msgid "Off-canvas Panel"
+msgstr "Panel fuera del lienzo"
+
+#: inc/widgets/widgets-register-sidebars.php:12
+msgid "Add widgets for main sidebar."
+msgstr "Añade widgets para la barra lateral principal."
+
+#: inc/widgets/widgets-register-sidebars.php:10
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/widgets/widgets-common-functions.php:55
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/widgets-base.php:194
+msgctxt "Remove"
+msgid "X"
+msgstr "×"
+
+#: inc/widgets/widgets-base.php:183
+msgid "Choose Image"
+msgstr "Elegir imagen"
+
+#: inc/widgets/widgets-base.php:182
+msgid "Select Image"
+msgstr "Elegir imagen"
+
+#: inc/widgets/widgets-base.php:181
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widgets/widget-social-contacts.php:75
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "El menú social no está configurado. Necesitas crear el menú y asignarlo al «Menú social» en los ajustes de menús."
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "EM Social"
+msgstr "EM: Sociales"
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "EM Social Contacts"
+msgstr "EM: Contactos sociales"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "Muestra listas de contactos sociales de los ajustes seleccionados."
+
+#: inc/widgets/widget-posts-tabbed.php:149
+msgid "Settings for all tabs"
+msgstr "Ajustes para todas las pestañas"
+
+#: inc/widgets/widget-posts-tabbed.php:142
+msgid "Categorised Posts"
+msgstr "Entradas categorizadas"
+
+#: inc/widgets/widget-posts-tabbed.php:138
+msgid "Latest"
+msgstr "Más recientes"
+
+#: inc/widgets/widget-posts-tabbed.php:137
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/widgets/widget-posts-tabbed.php:134
+msgid "Popular Posts"
+msgstr "Entradas populares"
+
+#: inc/widgets/widget-posts-tabbed.php:82
+msgid "Categorised"
+msgstr "Categorizadas"
+
+#: inc/widgets/widget-posts-tabbed.php:74
+msgid "Recent"
+msgstr "Recientes"
+
+#: inc/widgets/widget-posts-tabbed.php:67
+#: inc/widgets/widget-posts-tabbed.php:135
+msgid "Popular"
+msgstr "Populares"
+
+#: inc/widgets/widget-posts-tabbed.php:55
+#: inc/widgets/widget-posts-tabbed.php:145
+msgid "EM Categorised"
+msgstr "EM: Categorizadas"
+
+#: inc/widgets/widget-posts-tabbed.php:51
+msgid "EM Latest"
+msgstr "EM: Más recientes"
+
+#: inc/widgets/widget-posts-tabbed.php:50
+msgid "EM Popular"
+msgstr "EM: Populares"
+
+#: inc/widgets/widget-posts-tabbed.php:25
+msgid "EM Tabbed Posts"
+msgstr "EM: Entradas con pestañas"
+
+#: inc/widgets/widget-posts-tabbed.php:21
+msgid "Displays tabbed posts lists from selected settings."
+msgstr "Muestra listas de entradas en pestañas según los ajustes seleccionados."
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "EM Posts Slider"
+msgstr "EM: Carrusel de entradas"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "Muestra el carrusel de entradas de la categoría seleccionada."
+
+#: inc/widgets/widget-posts-tabbed.php:150
+#: inc/widgets/widget-posts-single-column.php:162
+msgid "Show excerpt"
+msgstr "Mostrar el extracto"
+
+#: inc/widgets/widget-posts-tabbed.php:127
+#: inc/widgets/widget-posts-single-column.php:148
+msgid "No"
+msgstr "No"
+
+#: inc/widgets/widget-posts-tabbed.php:126
+#: inc/widgets/widget-posts-single-column.php:147
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/widgets/widget-posts-single-column.php:24
+msgid "EM Posts - Single Column "
+msgstr "EM: Entradas - Columna individual"
+
+#: inc/widgets/widget-posts-single-column.php:20
+msgid "Displays posts from selected category in single column."
+msgstr "Muestra entradas de la categoría seleccionada en una columna individual."
+
+#: inc/widgets/widget-posts-express-column.php:24
+msgid "EM Posts - Express Column "
+msgstr "EM: Entradas - Columna explícita"
+
+#: inc/widgets/widget-posts-express-column.php:20
+msgid "Displays posts from selected category in express column."
+msgstr "Muestra entradas de la categoría seleccionada en una columna explícita."
+
+#: inc/widgets/widget-posts-double-column.php:188
+msgid "Double Column Posts Subtitle"
+msgstr "Subtítulo de las entradas de columna doble"
+
+#: inc/widgets/widget-posts-double-column.php:187
+msgid "Double Column Posts"
+msgstr "Entradas de columna doble"
+
+#: inc/widgets/widget-posts-double-column.php:24
+msgid "EM Posts - Double Column "
+msgstr "EM: Entradas - Columna doble"
+
+#: inc/widgets/widget-posts-double-column.php:20
+msgid "Displays posts from selected category in double column."
+msgstr "Muestra entradas de categorías seleccionadas en una columna doble."
+
+#: inc/widgets/widget-posts-double-column-double-categories.php:276
+msgid "Select second category"
+msgstr "Selecciona la segunda categoría"
+
+#: inc/widgets/widget-posts-double-column-double-categories.php:275
+msgid "Select first category"
+msgstr "Selecciona la primera categoría"
+
+#: inc/widgets/widget-posts-double-column-double-categories.php:22
+msgid "EM Double Categories Posts "
+msgstr "EM: Entradas de dos categorías"
+
+#: inc/widgets/widget-posts-double-column-double-categories.php:19
+msgid "Displays posts from selected double categories in double column."
+msgstr "Muestra las entradas de dos categorías seleccionadas en una columna doble."
+
+#: inc/widgets/widget-posts-tabbed.php:144
+#: inc/widgets/widget-posts-tabbed.php:146
+#: inc/widgets/widget-posts-single-column.php:160
+#: inc/widgets/widget-posts-express-column.php:180
+#: inc/widgets/widget-posts-carousel.php:135
+#: inc/widgets/widget-posts-double-column.php:189
+#: inc/widgets/widget-posts-slider.php:122
+msgid "Select category"
+msgstr "Selecciona la categoría"
+
+#: inc/widgets/widget-posts-carousel.php:24
+msgid "EM Posts Carousel"
+msgstr "EM: Carrusel de entradas"
+
+#: inc/widgets/widget-posts-carousel.php:20
+msgid "Displays posts carousel from selected category."
+msgstr "Muestra el carrusel de entradas de la categoría seleccionada."
+
+#: inc/widgets/widget-author-info.php:130
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-author-info.php:129
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-author-info.php:128
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-author-info.php:127
+msgid "Descriptions"
+msgstr "Descripciones"
+
+#: inc/widgets/widget-author-info.php:126
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/widgets/widget-author-info.php:125
+msgid "Profile image"
+msgstr "Imagen de perfil"
+
+#: inc/widgets/widget-author-info.php:124
+#: inc/widgets/widget-posts-double-column.php:188
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/widgets/widget-posts-tabbed.php:135
+#: inc/widgets/widget-posts-tabbed.php:138
+#: inc/widgets/widget-posts-tabbed.php:145
+#: inc/widgets/widget-author-info.php:123
+#: inc/widgets/widget-posts-double-column.php:187
+#: inc/customizer/theme-options.php:347
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/widget-author-info.php:24
+msgid "EM Author Info"
+msgstr "EM: Información del autor"
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "Muestra información del autor."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:39 inc/template-tags.php:93
+#: inc/template-tags.php:130
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:76
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:66
+msgid "Tagged %1$s"
+msgstr "Etiquetas: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63 inc/template-tags.php:118
+msgctxt "list item separator"
+msgid ", "
+msgstr ","
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:59
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:38
+msgid "/"
+msgstr "/"
+
+#: inc/template-tags.php:33
+msgid "By"
+msgstr "Por"
+
+#: lib/info/info.php:89 lib/info/info.php:143 inc/hooks/hook-tgm.php:29
+msgid "One Click Demo Import"
+msgstr "Importación de la demo en un clic"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "WP Post Author"
+msgstr "WP Post Author"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Primary Sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/hooks/hook-meta.php:69
+msgid "Content - Primary Sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/hooks/hook-meta.php:22
+msgid "Layout Options"
+msgstr "Opciones del diseño"
+
+#: inc/customizer/customizer-default.php:66
+msgid "You may also like"
+msgstr "También te puede interesar"
+
+#: template-parts/content.php:35 template-parts/content.php:51
+#: template-parts/content-page.php:26 template-parts/content-search.php:16
+#: inc/hooks/blocks/block-post-lists.php:76
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/customizer/theme-options.php:407
+msgid "Copyright Text"
+msgstr "Texto del copyright"
+
+#: inc/customizer/theme-options.php:389
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/theme-options.php:379
+msgid "Show above footer"
+msgstr "Mostrar encina del pie de página"
+
+#: inc/customizer/theme-options.php:361
+msgid "Latest blog carousel"
+msgstr "Carrusel de últimas entradas del blog"
+
+#: inc/customizer/theme-options.php:299
+msgid "Full Content"
+msgstr "Todo el contenido"
+
+#: inc/customizer/theme-options.php:298
+msgid "Post excerpt"
+msgstr "Extracto de la entrada"
+
+#: inc/customizer/theme-options.php:294
+msgid "Select content view for archive"
+msgstr "Selecciona la vista del contenido para el archivo"
+
+#: inc/customizer/theme-options.php:293
+msgid "Content view"
+msgstr "Vista del contenido"
+
+#: inc/customizer/theme-options.php:276
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/theme-options.php:275
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/theme-options.php:271
+msgid "Select image alignment for archive"
+msgstr "Selecciona la alineación de la imagen para el archivo"
+
+#: inc/customizer/theme-options.php:270
+msgid "Image alignment"
+msgstr "Alineación de la imagen"
+
+#: inc/customizer/theme-options.php:253
+msgid "List"
+msgstr "Lista"
+
+#: inc/customizer/theme-options.php:252
+msgid "Full"
+msgstr "Completo"
+
+#: inc/customizer/theme-options.php:248
+msgid "Select layout for archive"
+msgstr "Selecciona el diseño para el archivo"
+
+#: inc/customizer/theme-options.php:247
+msgid "Archive layout"
+msgstr "Diseño del archivo"
+
+#: inc/customizer/theme-options.php:229
+msgid "Archive"
+msgstr "Archivo"
+
+#: inc/customizer/theme-options.php:197 inc/hooks/hook-meta.php:75
+msgid "Full width content"
+msgstr "Contenido de ancho completo"
+
+#: inc/customizer/theme-options.php:196
+msgid "Primary sidebar - Content"
+msgstr "Barra lateral principal - Contenido"
+
+#: inc/customizer/theme-options.php:195
+msgid "Content - Primary sidebar"
+msgstr "Contenido - Barra lateral principal"
+
+#: inc/customizer/theme-options.php:191
+msgid "Select global content alignment"
+msgstr "Selecciona la alineación del contenido"
+
+#: inc/customizer/theme-options.php:190
+msgid "Content alignment"
+msgstr "Alineación del contenido"
+
+#: inc/customizer/theme-options.php:154
+msgid "Show breadcrumbs"
+msgstr "Mostrar las migas de pan"
+
+#: inc/customizer/theme-options.php:136
+msgid "Breadcrumb"
+msgstr "Migas de pan"
+
+#: inc/customizer/theme-options.php:124
+msgid "Show social menu on top header"
+msgstr "Mostrar el menú social en la cabecera superior"
+
+#: inc/customizer/theme-options.php:103
+msgid "Show date on top header"
+msgstr "Mostrar la fecha en la cabecera superior"
+
+#: inc/customizer/theme-options.php:82
+msgid "Transparent top header"
+msgstr "Cabecera superior transparente"
+
+#: inc/customizer/theme-options.php:63
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/theme-options.php:46
+msgid "Enable preloader"
+msgstr "Activar el precargador"
+
+#: inc/customizer/theme-options.php:28
+msgid "Preloader"
+msgstr "Precargador"
+
+#: lib/info/info.php:71 inc/customizer/theme-options.php:19
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/frontpage-options.php:265
+#: inc/customizer/frontpage-options.php:299
+msgid "Only Home Content"
+msgstr "Solo contenido de la página de inicio"
+
+#: inc/customizer/frontpage-options.php:264
+#: inc/customizer/frontpage-options.php:298
+msgid "Home Sidebar - Home Content"
+msgstr "Barra lateral de la página de inicio - Contenido de la página de inicio"
+
+#: inc/customizer/frontpage-options.php:263
+#: inc/customizer/frontpage-options.php:297
+msgid "Home Content - Home Sidebar"
+msgstr "Contenido de la página de inicio - Barra lateral de la página de inicio"
+
+#: inc/customizer/frontpage-options.php:259
+#: inc/customizer/frontpage-options.php:293
+msgid "Select frontpage content alignment"
+msgstr "Selecciona la alineación del contenido de la portada"
+
+#: inc/customizer/frontpage-options.php:258
+#: inc/customizer/frontpage-options.php:292
+msgid "Frontpage Content alignment"
+msgstr "Alineación del contenido de la portada"
+
+#: inc/customizer/frontpage-options.php:248
+#: inc/customizer/frontpage-options.php:273
+#: inc/customizer/theme-options.php:172
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer/frontpage-options.php:236
+msgid "Enable static page content"
+msgstr "Activar el contenido de la página estática"
+
+#: inc/customizer/frontpage-options.php:218
+msgid "Select category to be shown on featured section "
+msgstr "Selecciona la categoría que se mostrará en la sección destacada"
+
+#: inc/customizer/frontpage-options.php:217
+msgid "Featured news category"
+msgstr "Categoría de las noticias destacadas"
+
+#: inc/customizer/frontpage-options.php:196
+msgid "Select category to be shown on slider "
+msgstr "Selecciona la categoría que se mostrará en el carrusel"
+
+#: inc/customizer/frontpage-options.php:195
+msgid "Slider news category"
+msgstr "Categoría del carrusel de noticias"
+
+#: inc/customizer/frontpage-options.php:175
+msgid "Enable main news section"
+msgstr "Activar la sección del noticias principales"
+
+#: inc/customizer/frontpage-options.php:156
+msgid "Main banner news"
+msgstr "Banner de noticias principales"
+
+#: inc/customizer/frontpage-options.php:142
+msgid "Select category to be shown on ticker "
+msgstr "Selecciona la categoría que se mostrará en el teletipo"
+
+#: inc/customizer/frontpage-options.php:141
+msgid "Ticker News Category"
+msgstr "Categoría del teletipo de noticias"
+
+#: inc/customizer/frontpage-options.php:123
+msgid "Ticker Title"
+msgstr "Título del teletipo"
+
+#: inc/customizer/frontpage-options.php:106
+msgid "Enable Ticker News"
+msgstr "Activar el teletipo de noticias"
+
+#: inc/customizer/frontpage-options.php:86
+msgid "Ticker news"
+msgstr "Teletipo de noticias"
+
+#: inc/customizer/frontpage-options.php:74
+msgid "URL Link"
+msgstr "Enlace URL"
+
+#: inc/customizer/frontpage-options.php:53
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Tamaño recomendado %1$s px × %2$s px"
+
+#: inc/customizer/frontpage-options.php:52
+msgid "Banner Section Advertisement"
+msgstr "Anuncio de la sección del banner"
+
+#: inc/customizer/frontpage-options.php:30
+msgid "Advertisement"
+msgstr "Anuncio"
+
+#: inc/customizer/frontpage-options.php:21
+msgid "Frontpage Options"
+msgstr "Opciones de la portada"
+
+#: inc/customizer/font-color-options.php:49
+msgid "Top header texts color"
+msgstr "Color del texto de la cabecera superior"
+
+#: inc/customizer/font-color-options.php:26
+msgid "Top header background color"
+msgstr "Color de fondo de la cabecera superior"
+
+#: inc/customizer/customizer.php:111
+msgid "Upgrade now"
+msgstr "Actualizar ahora"
+
+#: inc/customizer/customizer.php:110
+msgid "Elegant Magazine Pro"
+msgstr "Elegant Magazine Pro"
+
+#: inc/customizer/customizer-default.php:81
+msgid "Copyright &copy; All rights reserved."
+msgstr "Copyright &copy; Todos los derechos reservados."
+
+#: inc/customizer/customizer-default.php:44
+msgid "Exclusive"
+msgstr "Exclusivo"
+
+#: inc/customizer/customizer-control.php:75
+msgid "All"
+msgstr "Todos"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:135
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Oswald, translate this to 'off'. Do not translate into your own language.
+#: functions.php:130
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:71
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:69
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: functions.php:68 header.php:175
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:147
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%2$s comentarios en «%1$s»"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en «%1$s»"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "AF themes"
+
+#. Theme URI of the theme
+msgid "https://www.afthemes.com/products/elegant-magazine/"
+msgstr "https://www.afthemes.com/products/elegant-magazine/"

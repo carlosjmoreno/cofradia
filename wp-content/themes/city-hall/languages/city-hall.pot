@@ -1,0 +1,1113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: City Hall\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-16 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. %s theme name
+#: academia-admin/admin-notices/academiathemes-notice-welcome.php:62
+#, php-format
+msgid "%s Video Guide"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:208
+#: academia-admin/widgets/recent-posts.php:172
+msgid "- show from all categories -"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:192
+msgid "1000+ Google Fonts"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:211
+#: academia-admin/academia-theme-settings.php:212
+msgid "13"
+msgstr ""
+
+#. 1: date, 2: time
+#: functions.php:422
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:192
+msgid "2"
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:193
+msgid "3"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:206
+#: academia-admin/widgets/recent-posts.php:194
+msgid "4"
+msgstr ""
+
+#. Theme name and version
+#: academia-admin/academia-theme-settings.php:75
+#, php-format
+msgid ""
+"<span class=\"theme-name\">%1$s Lite Theme</span> <span class=\"theme-"
+"version\">(version %2$s)</span>"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:13
+msgid "Academia: Featured Pages"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:13
+msgid "Academia: Posts Section"
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:13
+msgid "Academia: Recent Posts"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:13
+msgid "Academia: Widgets Container"
+msgstr ""
+
+#. Author of the theme
+msgid "AcademiaThemes.com"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:84
+msgid "AcademiaThemes.com Logo"
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notices.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notice-review.php:74
+msgid "Add a Rating for City Hall"
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: search.php:34
+msgid "Apologies, but the search query did not return any results."
+msgstr ""
+
+#: customizer/sections/color-scheme.php:245
+#: customizer/sections/color-scheme.php:297
+#: customizer/sections/color-scheme.php:349
+msgid "Background"
+msgstr ""
+
+#: customizer/sections/background.php:14
+#: customizer/sections/color-scheme.php:182
+msgid "Background Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:193
+msgid "Background Color of Current Page"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:253
+msgid "Black"
+msgstr ""
+
+#: customizer/sections/general.php:181
+msgid "Blog Section Heading"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:254
+msgid "Blue"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:19
+msgid "Body Text"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:226
+msgid "Border Color"
+msgstr ""
+
+#: customizer/sections/general.php:18
+msgid "Both Sidebars"
+msgstr ""
+
+#: customizer/sections/general.php:32
+msgid "Boxed"
+msgstr ""
+
+#: 404.php:36 search.php:36
+msgid "Browse Categories"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:206
+#: academia-admin/widgets/recent-posts.php:170
+msgid "Category of posts"
+msgstr ""
+
+#: customizer/sections/general.php:9
+msgid "Centered"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:190
+msgid ""
+"Change the font and font size for the main elements on the website directly "
+"from the Customizer."
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notices.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:172
+#: academia-admin/widgets/featured-pages.php:191
+#: academia-admin/widgets/featured-pages.php:210
+#: academia-admin/widgets/featured-pages.php:229
+msgid "Choose page:"
+msgstr ""
+
+#. Name of the theme
+#: academia-admin/admin-notices/academiathemes-notice-review.php:54
+msgid "City Hall"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"City Hall is a fast, clean and mobile friendly (responsive) WordPress theme. "
+"It is WCAG 2.0 (Level AAA) compliant. It works well with page builders like "
+"Elementor, Beaver Builder, Visual Composer, Brizy, Divi, SiteOrigin, etc. "
+"City Hall theme is best used to create a website for a city hall, "
+"municipality, local government office, church, school, museum, NGO, "
+"nonprofit or different education institutions. Other features include: "
+"Responsive Design; Mobile Menu; Blog ready; SEO code; Custom Widgets; Color "
+"Customization; Layout Settings; Translation Ready; Regular updates. Check "
+"out the theme's demo and video tutorial here: https://www.academiathemes."
+"com/free-wordpress-themes/city-hall-lite/"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:171
+#: academia-admin/admin-notices/academiathemes-notice-welcome.php:46
+msgid "City Hall Lite"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:49
+msgid "City Hall Lite Theme"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:172
+msgid "City Hall PRO"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:69
+msgid "City Hall Theme Screenshot"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:115
+msgid "City Hall Theme Video Tutorial"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:114
+msgid "Click the image below to open the video guide in a new browser tab."
+msgstr ""
+
+#: template-parts/mobile-menu.php:6
+msgid "Close Menu"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:185
+msgid "Color Customization"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:136
+msgid "Column 1 Border Color"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:153
+msgid "Column 2 Border Color"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:170
+msgid "Column 3 Border Color"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. %s: Link tittle attribute
+#: academia-admin/helper-functions.php:161
+#, php-format
+msgid "Continue Reading: %s"
+msgstr ""
+
+#: footer.php:66 customizer/sections/general.php:197
+msgid "Copyright &copy; "
+msgstr ""
+
+#: customizer/helpers-defaults.php:59
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: customizer/sections/general.php:201
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:404
+msgid "Copyright text border color"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:232
+msgid "current posts per page setting"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:259
+msgid "Custom (choose below)"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:148
+#: academia-admin/widgets/widget-columns.php:165
+#: academia-admin/widgets/widget-columns.php:182
+msgid "Custom Color"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:205
+msgid "Custom Widgets"
+msgstr ""
+
+#. %1$s current user display name.
+#: academia-admin/admin-notices/academiathemes-notice-review.php:62
+#, php-format
+msgid ""
+"Dear %1$s! We hope you are happy with everything that the %2$s has to offer. "
+"%3$sIf you can spare a moment, please consider adding a rating for %4$s on "
+"WordPress.org. %3$sIt helps us continue providing updates and support for "
+"this theme."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:215
+msgid "Demo Content Importer"
+msgstr ""
+
+#: customizer/sections/general.php:212
+msgid "Display \"Theme by AcademiaThemes\""
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:264
+#: academia-admin/widgets/recent-posts.php:210
+msgid "Display a Read More button"
+msgstr ""
+
+#: customizer/sections/general.php:161
+msgid "Display author bio at the end of posts"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:258
+msgid "Display Blog Archives pagination"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:253
+#: academia-admin/widgets/recent-posts.php:215
+msgid "Display date"
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:205
+msgid "Display excerpt"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:249
+msgid "Display Featured Image"
+msgstr ""
+
+#: customizer/sections/general.php:96
+msgid "Display Featured Images in Posts and Pages"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:259
+msgid "Display Page Excerpt"
+msgstr ""
+
+#: customizer/sections/general.php:139
+msgid "Display post category on single pages"
+msgstr ""
+
+#: customizer/sections/general.php:117
+msgid "Display post published date on archive pages"
+msgstr ""
+
+#: customizer/sections/general.php:128
+msgid "Display post published date on single pages"
+msgstr ""
+
+#: customizer/sections/general.php:150
+msgid "Display post tags on single pages"
+msgstr ""
+
+#: customizer/sections/general.php:72
+msgid "Display Sidebar(s)"
+msgstr ""
+
+#: customizer/sections/general.php:84
+msgid "Display the Dynamic Menu"
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:200
+msgid "Display thumbnail"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:248
+msgid "Display thumbnails in the posts list"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:254
+msgid "Display Title"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:16
+msgid "Displays a list of posts optionally filtered by category."
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:16
+msgid ""
+"Displays in a grid and links to multiple static pages. Best used in the "
+"'Homepage: Content Widgets' widgetized area."
+msgstr ""
+
+#: academia-admin/widgets/recent-posts.php:16
+msgid "Displays the most recent blog posts, optionally filtered by category."
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:16
+msgid ""
+"Displays the three Homepage: Widget Column widgetized areas. Add it to the "
+"Homepage: Content Widgets widgetized area."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:94
+msgid "Documentation and Support"
+msgstr ""
+
+#: customizer/sections/general.php:27 customizer/sections/general.php:33
+msgid "Don't display"
+msgstr ""
+
+#: functions.php:404 functions.php:432
+msgid "Edit"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:195
+msgid "Enable/disable the primary and secondary sidebars for the full website."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:200
+msgid ""
+"Enable/disable the primary and secondary sidebars separately for each page "
+"or post."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:170
+msgid "Feature"
+msgstr ""
+
+#: functions.php:140
+msgid "Featured Image: Page Thumbnail"
+msgstr ""
+
+#: functions.php:139
+msgid "Featured Image: Slideshow Size"
+msgstr ""
+
+#: functions.php:141
+msgid "Featured Image: Thumbnail"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:190
+msgid "Font Customization"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:339 customizer/sections/general.php:191
+msgid "Footer"
+msgstr ""
+
+#: functions.php:124
+msgid "Footer Menu"
+msgstr ""
+
+#: academia-admin/sidebars.php:111
+msgid "Footer: Column 1"
+msgstr ""
+
+#: academia-admin/sidebars.php:120
+msgid "Footer: Column 2"
+msgstr ""
+
+#: academia-admin/sidebars.php:129
+msgid "Footer: Column 3"
+msgstr ""
+
+#: customizer/sections/general.php:31
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:207
+msgid ""
+"Gain access to two more custom widgets: \"Call to Action\" and \"Featured "
+"Page\"."
+msgstr ""
+
+#: customizer/sections/color-scheme.php:9
+msgid "General"
+msgstr ""
+
+#: customizer/sections/general.php:38
+msgid "General Settings"
+msgstr ""
+
+#. %s theme name
+#: academia-admin/admin-notices/academiathemes-notice-welcome.php:58
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:195
+msgid "Global Layout Settings"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:104
+msgid "Go to City Hall Support Forum"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:255
+msgid "Green"
+msgstr ""
+
+#: customizer/sections/general.php:48
+msgid "Header Layout"
+msgstr ""
+
+#: academia-admin/sidebars.php:71
+msgid "Header: Secondary Widgets"
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notice-review.php:75
+msgid "Hide this notice"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:163
+msgid "Highlight Color"
+msgstr ""
+
+#: customizer/sections/general.php:171
+msgid "Homepage"
+msgstr ""
+
+#: academia-admin/sidebars.php:31
+msgid "Homepage: Content Widgets (Full)"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage: Only Widgets"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage: Widgets + Page Content"
+msgstr ""
+
+#: academia-admin/sidebars.php:41
+msgid "Homepage: Widgets Column 1"
+msgstr ""
+
+#: academia-admin/sidebars.php:51
+msgid "Homepage: Widgets Column 2"
+msgstr ""
+
+#: academia-admin/sidebars.php:61
+msgid "Homepage: Widgets Column 3"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.academiathemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.academiathemes.com/free-wordpress-themes/city-hall-lite/"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:145
+msgid ""
+"If you enjoy using City Hall Theme, please leave a review for it on "
+"WordPress.org. It helps us continue providing updates and support for it."
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: academia-admin/academia-theme-settings.php:162
+#, php-format
+msgid ""
+"If you like the free version of %1$s Theme, you will love the PRO version."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:215
+msgid "Import the demo content for an easier start with the theme."
+msgstr ""
+
+#: template-parts/content-home-featured.php:64
+msgid ""
+"Important: This message is NOT visible to site visitors, only to admins and "
+"editors."
+msgstr ""
+
+#: customizer/sections/general.php:25
+msgid "In the Primary (left) Sidebar"
+msgstr ""
+
+#: customizer/sections/general.php:26
+msgid "In the Secondary (right) Sidebar"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:143
+msgid "Leave a Review"
+msgstr ""
+
+#: customizer/sections/general.php:8
+msgid "Left"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:267
+#: customizer/sections/color-scheme.php:319
+#: customizer/sections/color-scheme.php:382
+msgid "Link"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:124
+msgid "Link Border Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:30
+#: customizer/sections/color-scheme.php:134
+msgid "Link Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:144
+msgid "Link Color :hover"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:41
+msgid "Link Color on Hover"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:278
+#: customizer/sections/color-scheme.php:330
+#: customizer/sections/color-scheme.php:393
+msgid "Link on Hover"
+msgstr ""
+
+#: functions.php:380
+msgid "Logo for "
+msgstr ""
+
+#: customizer/sections/general.php:60
+msgid "Main Menu Style"
+msgstr ""
+
+#: functions.php:122 template-parts/mobile-menu.php:26
+#: customizer/sections/color-scheme.php:61
+msgid "Mobile Menu"
+msgstr ""
+
+#: 404.php:43 search.php:41
+msgid "Monthly Archives"
+msgstr ""
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-home-featured.php:60
+msgid "No Featured Pages Found"
+msgstr ""
+
+#: customizer/sections/general.php:21
+msgid "No sidebars"
+msgstr ""
+
+#: customizer/helpers.php:141 customizer/helpers.php:191
+#: customizer/helpers.php:241
+msgid "None"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:226
+msgid "Nonpriority"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:226
+#: academia-admin/widgets/recent-posts.php:190
+msgid "Number of posts to display"
+msgstr ""
+
+#: customizer/customizer.php:269
+msgid "Official Theme Page"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: customizer/sections/general.php:19
+msgid "Only Primary (left) Sidebar"
+msgstr ""
+
+#: customizer/sections/general.php:20
+msgid "Only Secondary (right) Sidebar"
+msgstr ""
+
+#: template-parts/mobile-menu.php:4
+msgid "Open Menu"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:114
+msgid "Open Menu Background"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:71
+msgid "Open Menu Button Background"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:82
+msgid "Open Menu Button Background :hover"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:93
+msgid "Open Menu Button Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:104
+msgid "Open Menu Button Color :hover"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:256
+msgid "Orange"
+msgstr ""
+
+#: customizer/sections/general.php:14
+msgid "Overlaid"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder Template"
+msgstr ""
+
+#: 404.php:27
+msgid "Page not found"
+msgstr ""
+
+#: academia-admin/helper-functions.php:193
+msgid "Pages"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:259
+msgid "Pagination can be displayed only if no category is selected."
+msgstr ""
+
+#: loop.php:32
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:404
+msgid "Pingback:"
+msgstr ""
+
+#: customizer/sections/general.php:107
+msgid "Posts"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:235
+msgid "Pre-Footer Row 1"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:287
+msgid "Pre-Footer Row 2"
+msgstr ""
+
+#: academia-admin/sidebars.php:81
+msgid "Pre-Footer: Row 1, Left Side"
+msgstr ""
+
+#: academia-admin/sidebars.php:91
+msgid "Pre-Footer: Row 1, Right Side"
+msgstr ""
+
+#: academia-admin/sidebars.php:101
+msgid "Pre-Footer: Row 2"
+msgstr ""
+
+#: functions.php:121
+msgid "Primary Menu"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:227
+msgid "Priority Support"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:227
+msgid "Quick and friendly support is available via email and Skype."
+msgstr ""
+
+#: customizer/customizer.php:281
+msgid "Rate City Hall"
+msgstr ""
+
+#: academia-admin/helper-functions.php:161
+#: template-parts/content-home-featured.php:38
+msgid "Read More"
+msgstr ""
+
+#. This is the copyright notice that appears in the footer of the website.
+#: index.php:37 customizer/helpers-defaults.php:58
+#: academia-admin/widgets/posts-section.php:190
+#: customizer/sections/general.php:177
+msgid "Recent Posts"
+msgstr ""
+
+#: academia-admin/sidebars.php:33
+msgid "Recommended widgets: [Academia: Featured Pages]"
+msgstr ""
+
+#: academia-admin/sidebars.php:83 academia-admin/sidebars.php:93
+msgid "Recommended widgets: Academia: Call to Action, Social Icons, etc."
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:257
+msgid "Red"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:180
+msgid "Responsive Layout"
+msgstr ""
+
+#: search.php:27
+msgid "Search Results for"
+msgstr ""
+
+#: functions.php:123
+msgid "Secondary Menu"
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:170
+#: academia-admin/widgets/featured-pages.php:189
+#: academia-admin/widgets/featured-pages.php:208
+#: academia-admin/widgets/featured-pages.php:227
+msgid "Select page:"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:200
+msgid "Separate Layout Settings for each Page & Post"
+msgstr ""
+
+#: academia-admin/helper-functions.php:489
+msgid "Show sub menu"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:172
+msgid "Sidebar Dynamic Menu"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:153
+msgid "Sidebar Navigation Menu Widget"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:52
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: academia-admin/sidebars.php:13
+msgid "Sidebar: Primary"
+msgstr ""
+
+#: academia-admin/sidebars.php:22
+msgid "Sidebar: Secondary"
+msgstr ""
+
+#: customizer/sections/background.php:10
+msgid "Site Background"
+msgstr ""
+
+#: header.php:17
+msgid "Skip to content"
+msgstr ""
+
+#: customizer/sections/general.php:13
+msgid "Standard"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:134
+msgid "Subscribe"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:126
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:225
+msgid "Support"
+msgstr ""
+
+#. Theme name and link to WordPress.org Support forum for the theme
+#: academia-admin/academia-theme-settings.php:99
+#, php-format
+msgid ""
+"Support for %1$s Theme is provided in the official WordPress.org community "
+"support forums. "
+msgstr ""
+
+#: customizer/customizer.php:277
+msgid "Support Forum"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:226
+msgid "Support is provided in the WordPress.org community forums."
+msgstr ""
+
+#: academia-admin/helper-functions.php:211
+msgid "Tags"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:256
+#: customizer/sections/color-scheme.php:308
+#: customizer/sections/color-scheme.php:360
+msgid "Text"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:204
+msgid "Text Color"
+msgstr ""
+
+#: customizer/sections/color-scheme.php:215
+msgid "Text Color of Current Page"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:220
+msgid "Text Size Buttons in Header"
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notice-welcome.php:49
+msgid "Thank you for choosing City Hall Lite Theme!"
+msgstr ""
+
+#: academia-admin/widgets/posts-section.php:59
+msgid "The Academia: Posts Section widget cannot be displayed in this sidebar."
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:43
+msgid ""
+"The Academia: Widgets Container widget cannot be displayed in this sidebar."
+msgstr ""
+
+#: customizer/customizer.php:286
+msgid ""
+"The PRO version comes with additional custom widgets, templates, "
+"customization options and priority support!"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:101
+msgid ""
+"The usual response time is less than 45 minutes during regular work hours, "
+"Monday through Friday, 9:00am - 6:00pm (GMT+01:00). <br>Response time can be "
+"slower outside of these hours."
+msgstr ""
+
+#: footer.php:67
+msgid "Theme by"
+msgstr ""
+
+#: customizer/customizer.php:207
+msgid "Theme Colors"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:80
+msgid "Theme Demo"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:79
+msgid "Theme Details"
+msgstr ""
+
+#: customizer/customizer.php:273
+msgid "Theme Documentation"
+msgstr ""
+
+#: academia-admin/admin-notices/academiathemes-notice-review.php:76
+msgid "Theme Help"
+msgstr ""
+
+#: customizer/customizer.php:329
+msgid "Theme Help & Support"
+msgstr ""
+
+#: customizer/customizer.php:206
+msgid "Theme Settings"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:81
+#: academia-admin/academia-theme-settings.php:111
+msgid "Theme Video Tutorial"
+msgstr ""
+
+#: academia-admin/sidebars.php:103
+msgid "These widgets will appear in the footer above the main widget columns."
+msgstr ""
+
+#: academia-admin/sidebars.php:73
+msgid ""
+"These widgets will appear in the header to the right of the primary website "
+"logo. Recommended widgets: Academia: Call to Action, Social Icons, etc."
+msgstr ""
+
+#: template-parts/content-home-featured.php:63
+msgid ""
+"This section will display your featured pages. Configure (or disable) it via "
+"the Customizer."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:220
+msgid ""
+"This will display the A- and A+ links in the header of the website for "
+"better accessibility."
+msgstr ""
+
+#: academia-admin/helper-functions.php:412
+#: academia-admin/widgets/posts-section.php:96
+#: academia-admin/widgets/posts-section.php:125
+#: academia-admin/widgets/recent-posts.php:92
+msgid "Thumbnail for the post titled: "
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: academia-admin/admin-notices/academiathemes-notice-welcome.php:53
+#, php-format
+msgid ""
+"To take advantage of everything that this theme can offer, please take a "
+"look at the <a href=\"%2$s\">Get Started with %1$s</a> page."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:175
+msgid "Unlimited theme usage"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:166
+#: academia-admin/academia-theme-settings.php:230
+msgid "Upgrade to City Hall PRO"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:157 customizer/customizer.php:285
+msgid "Upgrade to City Hall Pro"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:166
+msgid "Video: City Hall vs City Hall Pro"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:104
+msgid "View City Hall Documentation"
+msgstr ""
+
+#: customizer/customizer.php:287
+msgid "View City Hall Pro"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:129
+msgid ""
+"We send out the newsletter once every few months. It contains information "
+"about our new themes and important theme updates."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:136
+msgid ""
+"We use Mailchimp as our marketing platform. By clicking above to subscribe, "
+"you acknowledge that your information will be transferred to Mailchimp for "
+"processing."
+msgstr ""
+
+#: academia-admin/widgets/featured-pages.php:151
+#: academia-admin/widgets/featured-pages.php:165
+#: academia-admin/widgets/posts-section.php:201
+#: academia-admin/widgets/recent-posts.php:154
+#: academia-admin/widgets/recent-posts.php:165
+#: customizer/sections/color-scheme.php:371
+msgid "Widget Title"
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:210
+msgid "Widgetized Areas"
+msgstr ""
+
+#: academia-admin/sidebars.php:43 academia-admin/sidebars.php:53
+#: academia-admin/sidebars.php:63
+msgid "Works best with Text and Custom HTML widgets."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:147
+msgid "Write a Review for City Hall"
+msgstr ""
+
+#: academia-admin/widgets/widget-columns.php:258
+msgid "Yellow"
+msgstr ""
+
+#. Theme name and version
+#: academia-admin/widgets/posts-section.php:241
+#, php-format
+msgid ""
+"You can change the current Posts per Page value on the <a href=\"%1$s\">"
+"Settings > Reading</a> page."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:175
+msgid ""
+"You can use the theme on any number of websites for as long as you wish."
+msgstr ""
+
+#: academia-admin/academia-theme-settings.php:164
+msgid ""
+"You will be able to create an even more unique website using the additional "
+"custom widgets, templates and customization options."
+msgstr ""
+
+#: functions.php:428
+msgid "Your comment is awaiting moderation."
+msgstr ""

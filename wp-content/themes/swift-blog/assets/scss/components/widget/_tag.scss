@@ -1,0 +1,19 @@
+.tagcloud{
+    a{
+        font-size: 14px !important;
+        font-weight: 800;
+        display: inline-block;
+        margin: 0 5px 10px;
+        position: relative;
+        border-bottom-style: solid;
+        border-bottom-width: 2px;
+        border-color: $color_gray;
+        &:visited{
+            border-color: $color_gray;
+        }
+        &:hover{
+            border-color: $color_primary;
+        }
+       
+    }
+}

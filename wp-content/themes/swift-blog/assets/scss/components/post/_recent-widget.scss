@@ -1,0 +1,39 @@
+.#{$prefix}-recent-widget{
+    .#{$prefix}-image-section{
+        height: 250px;
+    }
+    .#{$prefix}-description{
+        padding-top: 30px;
+        .#{$prefix}-unit{
+            flex: 0 0 50px;
+            max-width: 50px;
+            font-size: 50px;
+            line-height: 1;
+            margin: 0;
+            color: $color_gray;
+        }
+        .#{$prefix}-caption{
+            flex: 0 0 calc(100% - 50px);
+            max-width: calc(100% - 50px);
+            h3{
+                margin: 0;
+            }
+            .#{$prefix}-author-meta{
+                .#{$prefix}-author,
+                .#{$prefix}-posts-date,
+                .#{$prefix}-post-comment{
+                    padding-top: 15px;
+                    color: $color_gray;
+                }
+            }
+        }
+    }
+
+}
+.widget{
+    .#{$prefix}-recent-widget{
+        border-bottom: 0;
+        padding-top: 45px;
+        padding-bottom: 0;
+    } 
+}

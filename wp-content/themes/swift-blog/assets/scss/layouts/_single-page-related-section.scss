@@ -1,0 +1,10 @@
+.#{$prefix}-single-related-post-section{
+    padding-bottom: 30px;
+    @include media(md){
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    .#{$prefix}-title{
+        margin-top: 30px;
+    }
+}

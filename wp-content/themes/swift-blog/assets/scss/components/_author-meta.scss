@@ -1,0 +1,26 @@
+.#{$prefix}-author-meta{
+    margin-right: -5px;
+    margin-left: -5px;
+    span{
+        display: inline-block;
+    }
+    .#{$prefix}-author,
+    .#{$prefix}-posts-date,
+    .#{$prefix}-post-comment{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .#{$prefix}-author{
+        .#{$prefix}-caption{
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+    }
+    .#{$prefix}-posts-date{
+        span{
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+    }
+
+}

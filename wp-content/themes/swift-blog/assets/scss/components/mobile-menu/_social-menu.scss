@@ -1,0 +1,29 @@
+.#{$prefix}-mobile-menu-section{
+    &.#{$prefix}-nav-mobile-menu{
+        section{
+            display: none;
+        }
+    }
+    .#{$prefix}-mobile-menu{
+        .#{$prefix}-social-icons{
+            li{
+                float: none;
+                a{
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    &:before{
+                        font-size: 32px;
+                        display: inline-block;
+                    }
+                    span{
+                        display: inline-block;
+                        font-size: 20px;
+                        padding: 0 10px;
+                        font-weight: $font_semi_bold;
+                    }
+                }
+            }
+        }
+    }
+}

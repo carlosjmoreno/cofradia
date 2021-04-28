@@ -1,0 +1,260 @@
+/*
+Theme Name: City Hall
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * 1.0 - Body
+ */
+
+body {
+	background-color: #fff;
+	color: #111;
+	font-family: 'Open Sans', Arial, Tahoma, sans-serif;
+	font-size: 16px;  
+	line-height: 1.75em;
+	font-weight: 400;
+	margin: 20px 20px 20px 40px;
+	max-width: 520px;
+	vertical-align: baseline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #0d0d0d;
+	font-family: 'Open Sans';
+	font-weight: 600;
+	line-height: 1.3;
+	margin: 1em 0;
+	text-transform: uppercase;
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 16px; }
+h6 { font-size: 16px; }
+
+p {
+	margin-top: 0;
+	margin-bottom: 2rem; 
+}
+
+a {
+	color: #013B93;
+	text-decoration:underline; 
+}
+
+a:hover,
+a:focus {
+	color: #B00000;
+	cursor: pointer;
+	text-decoration:underline; 
+}
+
+img {
+	margin-bottom: 1.25rem;; 
+}
+
+img.alignnone, 
+img.aligncenter, 
+img.alignleft, 
+img.alignright {
+	max-width: 100%;
+	width:auto;
+ 	height:auto;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 2.5rem;
+}
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 2.5rem;
+}
+
+.callout {
+	width: 150%;
+}
+
+hr {
+  background-color: #e3e3e3;
+  border: 0;
+  height: 1px;
+  margin: 1rem 0;
+}
+
+img.callout {
+	height: auto;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+textarea {
+	max-width: 97%;
+}
+
+blockquote {
+  background-color: #f3f5f6;
+  border: solid 1px #e5e8eb;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  margin: 1.875rem 0;
+  padding: 1.875rem;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px;
+}
+
+/*--------------------------------------------------------------
+8.0 Lists
+--------------------------------------------------------------*/
+ul,
+ol {
+  list-style-position: inside;
+  margin: 2em 0 2rem 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+li {
+  display: list-item;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+ol li {
+  list-style-type: decimal;
+}
+
+li > ul,
+li > ol {
+  margin: 1.5rem 0 1.5rem 2rem;
+}
+
+dt {
+  font-weight: 700;
+}
+
+dd {
+  margin: 0 1.5em 1.5em;
+}
+
+ul:last-child {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-size: 2em; }
+
+h2 {
+  font-size: 1.25em; }
+
+h3 {
+  font-size: 1.15em; }
+
+h4 {
+  font-size: 1.1em; }
+
+h5 {
+  font-size: 1em; }
+
+h6 {
+  font-size: 1em; }
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  margin: 1.25em 0 1.25em;
+  line-height: 1.3em; }
+
+img {
+  margin-bottom: 1.25rem; }
+
+table{
+  margin: 3rem 0; }
+
+table caption {
+  font-weight: bold;
+  margin: 0 0 1rem;
+  padding: 0.5rem 20px;
+  text-align: center; }
+
+table tbody {
+  border: solid 1px #dadada;
+  border-width: 1px; }
+
+table:last-child {
+  margin-bottom: 0; }
+
+table th,
+table td {
+  border-right: solid 1px #dadada;
+  font-size: 0.875em;
+  line-height: 1.6em; }
+
+table th {
+  border-right-color: rgba(255, 255, 255, 0.1); }
+
+table th:last-child {
+  border-right-width: 0; }
+
+thead th {
+  background-color: #282828;
+  color: #fff; }
+
+table thead tr {
+  border-bottom-width: 0; }
+
+table tr {
+  border-bottom: solid 1px #dadada;
+  transition: all 0.2s ease-in-out; }
+
+tr:nth-child(odd) {
+  background-color: white; }
+
+tr:nth-child(even) {
+  background-color: #eee; }
+
+tr:nth-child(even) td {
+  border-right-color: #dadada; }
+
+tr:hover {
+  background-color: #faf5e3; }
+
+/* Captions */
+.wp-caption {
+  font-size: 0.875rem;
+  line-height: 1.75em;
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+  max-width: 100%;
+  width: auto; }
+
+.wp-caption img {
+  margin-bottom: 0; }
+
+.wp-caption .wp-caption-text {
+  background-color: #eee;
+  margin-top: 0;
+  padding: 1.25rem; }
